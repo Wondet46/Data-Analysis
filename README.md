@@ -1,11 +1,12 @@
 # Data-Analysis
+https://app.powerbi.com/groups/291a7524-3e8f-47d3-bcb4-4d0c1893c829/reports/1958c6c9-bf66-41d3-87a4-6b68eeb0814b/ReportSection?experience=power-bi
 #Title: Lionel Messi 2012 Performance Analysis: Goals, Assists, and Average Minutes per Goal
 ![Messi Performance Analysis](https://github.com/Wondet46/Data-Analysis/blob/main/Screenshot%202024-01-02%20020104.png)
 
 
 **1. Introduction**
 
-The purpose of this data analysis project is to examine Lionel Messi's performance in the year 2012, specifically focusing on his goal-scoring, assist contributions, and the average minutes per goal. Data was collected from various websites, and the analysis was carried out using Excel for data cleaning and Power BI for visualization.
+The purpose of this data analysis project is to examine Lionel Messi's performance in the year 2012, specifically focusing on his goal-scoring, assist contributions, and average minutes per goal. Data was collected from various websites, and the analysis was carried out using Excel for data cleaning and Power BI for visualization.
 
 **2. Data Collection**
 
