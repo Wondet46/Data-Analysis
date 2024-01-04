@@ -1,5 +1,7 @@
 # Data-Analysis
 #Title: Lionel Messi 2012 Performance Analysis: Goals, Assists, and Average Minutes per Goal
+![Messi Performance Analysis](https://github.com/Wondet46/Data-Analysis/blob/main/Screenshot%202024-01-02%20020104.png)
+
 
 **1. Introduction**
 
